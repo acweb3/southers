@@ -1,0 +1,11 @@
+{
+    "image": "ipfs://QmPFzohAbymNYAiADMUpTYe9k2E62mDFK61VhxspsZ4EJr/0.jpg",
+    "name": "Decentralized Spirit",
+    "description": "A nice demo with henry and andrew ;)",
+    "attributes": [
+        {
+            "trait_type": "time limit",
+            "value": "1 hour"
+        }
+    ]
+}
